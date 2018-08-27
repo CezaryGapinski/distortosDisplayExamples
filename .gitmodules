@@ -1,0 +1,4 @@
+[submodule "distortos"]
+	path = distortos
+	url = https://github.com/CezaryGapinski/distortos
+	branch = display_st_32f429idiscovery
